@@ -1,0 +1,11 @@
+diff a/test.md b/test.md	(rejected hunks)
+@@ -1,4 +1,6 @@
+ hello git test
+ 
+ branch version1 test
+-내용 더 추가!
+\ No newline at end of file
++내용 더 추가!
++
++내용 더더더더더 추가!
+\ No newline at end of file
